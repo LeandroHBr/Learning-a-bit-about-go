@@ -13,6 +13,7 @@ import "fmt"
 				var variable := value
 					or
 					var variable = value
+	ps: for constant values, we can use const
 */
 
 func main() {
